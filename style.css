@@ -193,12 +193,14 @@ color:#fff;
     padding:1rem;
     position: relative;
 }
+/*
 .about #video{
 
     height: 700px;
     width: 600px;
 }
 
+*/
 .about .row .content{
     flex: 1 1 45rem;
 
