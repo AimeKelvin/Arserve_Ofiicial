@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
 
 :root{
+    /*dark deleted*/
     --main-color:#cfb20f;
     --black-body:#1b1b1b;
     --dark-footer:#0c0c0c;
@@ -581,14 +582,6 @@ color:#fff;
     justify-content: space-between;
     padding: 1.5rem;
 }
-
-/*.review .box .fa-quote-right{
-    position: absolute;
-    top: 2rem;
-    right:2rem;
-    color: var(--main-color);
-    font-size:5rem;
-}*/
 
 .review .box .user{
     display:flex;
