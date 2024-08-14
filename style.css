@@ -39,13 +39,11 @@ html::-webkit-scrollbar-thumb{
 
 body{
     background: var(--dark-footer);
-    overflow-x: hidden;
 
 }
 
 section{
     padding: 2rem 9%;
-    width: 100%
 
 }
 .heading{
