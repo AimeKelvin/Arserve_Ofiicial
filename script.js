@@ -54,21 +54,12 @@ function likeImage(){
     button.innerText = currentLikes + 1;
     // Add logic to send this information to a server or store it if needed
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+let myage  = {ja===jd}
+re(Uirkzk,fokf) 
+jaP=1;
+okoke$;
+if(let=1){
+    find your perfect solumate//099309111092901919109I09I109I199191091091901
 
 
 
